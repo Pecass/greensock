@@ -1,3 +1,3 @@
 <?php
-echo "nazdar 3";
+echo "nazdar 4";
 
